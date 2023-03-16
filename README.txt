@@ -1,5 +1,3 @@
-*NOTE* This repo has been updated after 2 years due to dependency changes
-
 TEAM GOOSE MACHINE LEARNED ART PROGRAM STARTUP INSTRUCTIONS
 
 Google Collabs Project Link: https://colab.research.google.com/drive/1jrnLHWlxZNItjxz31dcF_y1k0ej-Lpve?usp=sharing
@@ -14,5 +12,6 @@ INSTRUCTIONS:
 5. That's it! The streamlit application is now online!
 
 WARNINGS: 
-1. You probably need to restart collabs if you run the link too many times.
-2. The link expires usually in about 30 minutes.
+1. This repo has been updated after 2 years due to dependency changes.
+2. You probably need to restart collabs if you run the link too many times.
+3. The link expires usually in about 30 minutes.
