@@ -2,7 +2,7 @@
 
 TEAM GOOSE MACHINE LEARNED ART PROGRAM STARTUP INSTRUCTIONS
 
-Google Collabs Project Link: https://colab.research.google.com/drive/1ywwgXrbWVfZsU4rNn08qnpge158i7UlD
+Google Collabs Project Link: https://colab.research.google.com/drive/1jrnLHWlxZNItjxz31dcF_y1k0ej-Lpve?usp=sharing
 
 INSTRUCTIONS:
 1. a) Copy and Paste the Google Collab Link, or
