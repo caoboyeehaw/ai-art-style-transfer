@@ -1,3 +1,5 @@
+*NOTE* This repo has been updated after 2 years due to dependency changes
+
 TEAM GOOSE MACHINE LEARNED ART PROGRAM STARTUP INSTRUCTIONS
 
 Google Collabs Project Link: https://colab.research.google.com/drive/1ywwgXrbWVfZsU4rNn08qnpge158i7UlD
